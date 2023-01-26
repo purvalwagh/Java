@@ -1,7 +1,11 @@
 Class Test
 {
-public static void main 
+public static void main() 
 {
-//code
+//code1
+}
+public static void main() 
+{
+//code2
 }
 }
